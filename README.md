@@ -6,7 +6,7 @@ The Silicon Labs' CP2102 is a small module designed to convert interfaces betwee
 
 ### CP2102-GM
 
-<img src="USB_to_UART_Altium/Images/cp21029.png" >
+<img src="Core-Electronics-Projects/USB_to_UART_Altium/Images/cp21029.png" >
 
 
 
@@ -16,7 +16,7 @@ The schematic contains CP2102-GM (Single-Chip USB to UART Bridge, 1024 Bytes EEP
 
 
 
-<img src="USB_to_UART_Altium/Images/schematic.png" >
+<img src="Core-Electronics-Projects/USB_to_UART_Altium/Images/schematic.png" >
 
 
 
@@ -24,8 +24,8 @@ The schematic contains CP2102-GM (Single-Chip USB to UART Bridge, 1024 Bytes EEP
 
 The PCB design will consist of a two-layer configuration where all the components will be placed on the top layer.
 
-<img src="USB_to_UART_Altium/Images/pcb2d.png">
+<img src="Core-Electronics-Projects/USB_to_UART_Altium/Images/pcb2d.png">
 
 
 
-<img src="USB_to_UART_Altium/Images/pcb3d.png">
+<img src="Core-Electronics-Projects/USB_to_UART_Altium/Images/pcb3d.png">
